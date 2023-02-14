@@ -76,7 +76,28 @@ The PIP Packae Manager will ask you to confirm that you want to remove the camel
     c:\users\Your Name\appdata\local\programs\python\python36-32\lib\site-packages\camecase\*
     Proceed (y/n)?
 
-Press y and the package will be remove.    
+Press y and the package will be remove.
+
+# List Packages
+Use the list command to list all the packages installed on your system:
+
+Example:
+
+List installed packages:
+
+    C:\Users\Your Name\AppData\Local\Programs\Python\Python36-32\Scripts>pip list
+
+Result:
+
+        Package         Version
+-----------------------
+camelcase       0.2
+mysql-connector 2.1.6
+pip             18.1
+pymongo         3.6.1
+setuptools      39.0.1
+
+
 
 
 
