@@ -55,3 +55,19 @@ Import and the "camelcse":
 
     print(c.hump(txt))
 
+
+# Find Packages   
+Find more packages at https://pypi.org/.
+
+# Remove a Package
+Use the unistall command to remove a package:
+
+Example
+
+Unistall the package named "camelcase":
+
+    C:\Users\Your Name\AppData\Local\Programs\Python\Python36-32\Scripts>pip uninstall camelcase
+
+    
+
+
