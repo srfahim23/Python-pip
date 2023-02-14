@@ -68,6 +68,15 @@ Unistall the package named "camelcase":
 
     C:\Users\Your Name\AppData\Local\Programs\Python\Python36-32\Scripts>pip uninstall camelcase
 
-    
+The PIP Packae Manager will ask you to confirm that you want to remove the camelcase package:
+
+    Uninstalling camelcase-02.1:
+  Would remove:
+    c:\users\Your Name\appdata\local\programs\python\python36-32\lib\site-packages\camecase-0.2-py3.6.egg-info
+    c:\users\Your Name\appdata\local\programs\python\python36-32\lib\site-packages\camecase\*
+    Proceed (y/n)?
+
+Press y and the package will be remove.    
+
 
 
